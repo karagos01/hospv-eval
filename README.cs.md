@@ -130,7 +130,7 @@ v [`reference-audit`](https://github.com/karagos01/reference-audit).
 
 ## Doprovodná vyhodnocení
 
-- [`reference-audit`](https://github.com/karagos01/reference-audit) — jestli všech 69 citací ve všech 16 depositech říká to, pro co je citovaných
+- [`reference-audit`](https://github.com/karagos01/reference-audit) — jestli všech 81 citací ve všech 18 depositech říká to, pro co je citovaných
 - [`openomega-eval`](https://github.com/karagos01/openomega-eval) — openOmega, antimaterie a sedeniony z října 2026
 - [`intensional-physics-eval`](https://github.com/karagos01/intensional-physics-eval) — Intensional Physics Computing a openQL v1.1 z října 2026
 - [`openql-eval`](https://github.com/karagos01/openql-eval) — tenzorová maticová architektura openQL / openOL

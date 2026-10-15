@@ -129,7 +129,7 @@ reference verdicts live in
 
 ## Companion evaluations
 
-- [`reference-audit`](https://github.com/karagos01/reference-audit) — whether all 69 citations in all 16 deposits say what they are cited for
+- [`reference-audit`](https://github.com/karagos01/reference-audit) — whether all 81 citations in all 18 deposits say what they are cited for
 - [`openomega-eval`](https://github.com/karagos01/openomega-eval) — the openOmega matter-antimatter and sedenion proposal of October 2026
 - [`intensional-physics-eval`](https://github.com/karagos01/intensional-physics-eval) — Intensional Physics Computing and openQL v1.1 of October 2026
 - [`openql-eval`](https://github.com/karagos01/openql-eval) — the openQL / openOL tensor-matrix architecture
